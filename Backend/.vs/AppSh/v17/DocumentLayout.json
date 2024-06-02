@@ -1,12 +1,92 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\shiwa\\source\\repos\\AppSh\\Backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E409CB5F-6D5F-4A27-B39D-6DE6F82C859E}|AppSh.Data\\AppSh.Data.csproj|c:\\users\\shiwa\\source\\repos\\appsh\\backend\\appsh.data\\context\\initcontextshclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E409CB5F-6D5F-4A27-B39D-6DE6F82C859E}|AppSh.Data\\AppSh.Data.csproj|solutionrelative:appsh.data\\context\\initcontextshclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E409CB5F-6D5F-4A27-B39D-6DE6F82C859E}|AppSh.Data\\AppSh.Data.csproj|c:\\users\\shiwa\\source\\repos\\appsh\\backend\\appsh.data\\models\\initmodelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E409CB5F-6D5F-4A27-B39D-6DE6F82C859E}|AppSh.Data\\AppSh.Data.csproj|solutionrelative:appsh.data\\models\\initmodelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF302C6-13D8-4A3D-9A5B-0482597842D2}|AppSh.Business\\AppSh.Business.csproj|c:\\users\\shiwa\\source\\repos\\appsh\\backend\\appsh.business\\service\\initclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF302C6-13D8-4A3D-9A5B-0482597842D2}|AppSh.Business\\AppSh.Business.csproj|solutionrelative:appsh.business\\service\\initclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF302C6-13D8-4A3D-9A5B-0482597842D2}|AppSh.Business\\AppSh.Business.csproj|c:\\users\\shiwa\\source\\repos\\appsh\\backend\\appsh.business\\interface\\iinitclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF302C6-13D8-4A3D-9A5B-0482597842D2}|AppSh.Business\\AppSh.Business.csproj|solutionrelative:appsh.business\\interface\\iinitclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InitContextShClass.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\AppSh\\Backend\\AppSh.Data\\Context\\InitContextShClass.cs",
+              "RelativeDocumentMoniker": "AppSh.Data\\Context\\InitContextShClass.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\AppSh\\Backend\\AppSh.Data\\Context\\InitContextShClass.cs",
+              "RelativeToolTip": "AppSh.Data\\Context\\InitContextShClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:39:27.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InitModelClass.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\AppSh\\Backend\\AppSh.Data\\Models\\InitModelClass.cs",
+              "RelativeDocumentMoniker": "AppSh.Data\\Models\\InitModelClass.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\AppSh\\Backend\\AppSh.Data\\Models\\InitModelClass.cs",
+              "RelativeToolTip": "AppSh.Data\\Models\\InitModelClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:38:58.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InitClass.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\AppSh\\Backend\\AppSh.Business\\Service\\InitClass.cs",
+              "RelativeDocumentMoniker": "AppSh.Business\\Service\\InitClass.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\AppSh\\Backend\\AppSh.Business\\Service\\InitClass.cs",
+              "RelativeToolTip": "AppSh.Business\\Service\\InitClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:37:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInitClass.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\AppSh\\Backend\\AppSh.Business\\Interface\\IInitClass.cs",
+              "RelativeDocumentMoniker": "AppSh.Business\\Interface\\IInitClass.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\AppSh\\Backend\\AppSh.Business\\Interface\\IInitClass.cs",
+              "RelativeToolTip": "AppSh.Business\\Interface\\IInitClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:36:11.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

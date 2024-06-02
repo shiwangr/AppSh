@@ -1,6 +1,6 @@
 ﻿namespace AppSh.Business
 {
-    public class Class1
+    public class InitClass : IInitClass
     {
 
     }
